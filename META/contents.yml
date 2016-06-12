@@ -1,0 +1,88 @@
+######################
+#  Table of Contents
+
+- title: What ever are we doing?
+  path:  01__What_ever_are_we_doing.md
+  sections:
+  - title: Introductions
+  - title: A brief encounter
+
+- title: First Class Functions
+  path:  02__First_Class_Functions.md
+  sections:
+  - title: A quick review
+  - title: Why favor first class?
+
+- title: Pure Happiness with Pure Functions
+  path:  03__Pure_Happiness_with_Pure_Functions.md
+  sections:
+  - title: Oh to be pure again
+  - title: Side effects may include...
+  - title: 8th grade math
+  - title: The case for purity
+  - title: In Summary
+
+- title: Currying
+  path:  04__Currying.md
+  sections:
+  - title: Can't live if livin' is without you
+  - title: More than a pun / Special sauce
+  - title: In Summary
+
+- title: Coding by Composing
+  path:  05__Coding_by_Composing.md
+  sections:
+  - title: Functional Husbandry
+  - title: Pointfree
+  - title: Debugging
+  - title: Category Theory
+  - title: In Summary
+
+- title: Example Application
+  path:  06__Example_Application.md
+  sections:
+  - title: Declarative Coding
+  - title: A flickr of functional programming
+  - title: A Principled Refactor
+  - title: In Summary
+
+- title: Hindley-Milner and Me
+  path:  07__Hindley-Milner_and_Me.md
+  sections:
+  - title: What's your type?
+  - title: Tales from the cryptic
+  - title: Narrowing the possibility
+  - title: Free as in theorem
+  - title: In Summary
+
+- title: Tupperware
+  path:  08__Tupperware.md
+  sections:
+  - title: The Mighty Container
+  - title: My First Functor
+  - title: Schrödinger's Maybe
+  - title: Pure Error Handling
+  - title: Old McDonald had Effects...
+  - title: Asynchronous Tasks
+  - title: A Spot of Theory
+  - title: In Summary
+
+- title: Monadic Onions
+  path:  09__Monadic_Onions.md
+  sections:
+  - title: Pointy Functor Factory
+  - title: Mixing Metaphors
+  - title: My chain hits my chest
+  - title: Theory
+  - title: In Summary
+
+- title: Applicative Functors
+  path:  10__Applicative_Functors.md
+  sections:
+  - title: Applying Applicatives
+  - title: Ships in bottles
+  - title: Coordination Motivation
+  - title: Bro, do you even lift?
+  - title: Free can openers
+  - title: Laws
+  - title: In Summary
