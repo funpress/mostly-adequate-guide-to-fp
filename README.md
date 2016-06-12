@@ -3,7 +3,7 @@ See the live version @ [`funpress.github.io/mostly-adequate-guide-to-fp`](http:/
 
 ---
 
-# Professor Frisby's Mostly Adequate Guide to Functional Programming (Manuscripts Book Edition)
+# Professor Frisby's Mostly Adequate Guide to Functional Programming in JavaScript (Manuscripts Book Edition)
 
 by [Brian Lonsdorf](https://github.com/DrBoolean) et al
 
